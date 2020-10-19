@@ -1,4 +1,4 @@
-date,country,latitude,longitude,depth,magnitude,secondary_effects,pde_shaking_deaths,pde_total_deaths,utsu_total_deaths,em_dat_total_deaths,others_sources_deaths
+date,country,latitude,longitude,depth,magnitude,secondary_effects,pde_shaking_deaths,pde_total_deaths,utsu_total_deaths,em_dat_total_deaths,others_source_deaths
 1900-05-11 17:23,Japan,38.700,141.100,5,7.0 MJMA,,,,,,
 1900-07-12 06:25,Turkey,40.300,43.100,,5.9 Muk,,,,140.0,,
 1900-10-29 09:11,Venezuela,11.000,-66.000,0,7.7 Mw,,,,,,
