@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2020-10-23T04:09:18.260Z,36.3328333,-89.4846667,4.93,1.65,md,24.0,47.0,0.01857,0.03,nm,nm60312902,2020-10-23T16:52:09.410Z,"5 km SSW of Tiptonville, Tennessee",earthquake,0.33,0.27,0.068,14.0,reviewed,nm,nm
 2020-10-21T21:49:45.720Z,36.0705,-89.8023333,6.84,2.14,md,46.0,40.0,0.0643,0.1,nm,nm60312762,2020-10-22T12:49:53.160Z,"2 km NNE of Cooter, Missouri",earthquake,0.17,0.49,0.092,31.0,reviewed,nm,nm
 2020-10-21T20:28:42.930Z,36.525,-89.5691667,6.85,1.69,md,19.0,50.0,0.025960000000000004,0.03,nm,nm60312752,2020-10-22T14:45:56.660Z,"3 km E of Marston, Missouri",earthquake,0.34,0.63,0.16699999999999998,12.0,reviewed,nm,nm
 2020-10-21T15:38:34.380Z,36.8671667,-83.2428333,9.37,2.25,md,16.0,98.0,0.375,0.32,se,se60312717,2020-10-21T18:59:51.529Z,"4 km W of Evarts, Kentucky",earthquake,0.59,1.91,0.049,11.0,reviewed,se,se
@@ -9,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2020-10-20T18:50:21.800Z,36.2675,-89.5233333,8.84,2.33,md,46.0,33.0,0.0152,0.11,nm,nm60312672,2020-10-21T12:29:35.220Z,"3 km W of Ridgely, Tennessee",earthquake,0.15,0.3,0.142,34.0,reviewed,nm,nm
 2020-10-20T04:56:57.790Z,36.458,-89.5321667,8.67,1.48,md,26.0,42.0,0.07238,0.05,nm,nm60312667,2020-10-20T16:50:36.840Z,"9 km SE of Marston, Missouri",earthquake,0.81,1.09,0.11199999999999999,18.0,reviewed,nm,nm
 2020-10-19T20:31:16.660Z,36.4196667,-89.499,7.78,1.3,md,16.0,87.0,0.03247,0.02,nm,nm60312652,2020-10-20T19:06:10.270Z,southeastern Missouri,earthquake,0.35,0.62,0.10099999999999999,13.0,reviewed,nm,nm
-2020-10-19T20:19:38.490Z,36.224000000000004,-82.8171667,17.27,2.31,md,8.0,70.0,0.1751,0.12,se,se60115423,2020-10-21T23:43:51.915Z,"6 km N of Greeneville, Tennessee",earthquake,0.91,1.69,0.099,6.0,reviewed,se,se
+2020-10-19T20:19:38.490Z,36.224000000000004,-82.8171667,17.27,2.31,md,8.0,70.0,0.1751,0.12,se,se60115423,2020-10-23T06:52:55.336Z,"6 km N of Greeneville, Tennessee",earthquake,0.91,1.69,0.099,6.0,reviewed,se,se
 2020-10-19T05:15:25.090Z,36.2095,-89.47616670000001,6.33,1.59,md,16.0,59.0,0.04374,0.05,nm,nm60312582,2020-10-19T13:03:45.780Z,"6 km S of Ridgely, Tennessee",earthquake,0.26,0.56,0.086,14.0,reviewed,nm,nm
 2020-10-18T16:54:12.390Z,36.485833299999996,-81.082,0.71,-0.61,md,4.0,147.0,0.01236,0.03,se,se60312572,2020-10-19T13:10:38.350Z,"4 km ESE of Sparta, North Carolina",earthquake,0.34,1.02,0.105,4.0,reviewed,se,se
 2020-10-17T20:09:11.850Z,36.6013333,-89.5796667,10.79,1.22,md,18.0,51.0,0.025939999999999998,0.07,nm,nm60312517,2020-10-19T14:08:45.320Z,"3 km ENE of Lilbourn, Missouri",earthquake,0.54,0.96,0.053,12.0,reviewed,nm,nm
@@ -93,7 +94,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2020-09-22T00:30:07.510Z,36.501,-89.5771667,5.29,2.57,md,42.0,42.0,0.06534,0.12,nm,nm60329471,2020-09-23T05:32:11.043Z,"3 km ESE of Marston, Missouri",earthquake,0.17,0.67,0.129,37.0,reviewed,nm,nm
 2020-09-21T16:28:47.340Z,36.4795,-89.5428333,7.74,1.76,md,25.0,43.0,0.0747,0.02,nm,nm60329421,2020-09-21T18:17:21.800Z,"7 km SE of Marston, Missouri",earthquake,0.54,0.92,0.105,17.0,reviewed,nm,nm
 2020-09-20T20:10:49.870Z,36.1803333,-81.2736667,5.17,2.05,md,11.0,131.0,0.1551,0.26,se,se60329366,2020-09-21T19:58:41.831Z,"3 km WSW of Millers Creek, North Carolina",earthquake,1.02,2.77,0.036000000000000004,8.0,reviewed,se,se
-2020-09-20T10:15:58.970Z,36.331166700000004,-89.5661667,11.1,1.73,md,24.0,56.0,0.006647,0.06,nm,nm60329311,2020-09-22T14:16:50.669Z,"9 km WSW of Tiptonville, Tennessee",earthquake,0.34,0.63,0.047,21.0,reviewed,nm,nm
+2020-09-20T10:15:58.970Z,36.331166700000004,-89.5661667,11.1,1.73,md,24.0,56.0,0.006647,0.06,nm,nm60329311,2020-10-23T17:06:16.040Z,"9 km WSW of Tiptonville, Tennessee",earthquake,0.34,0.63,0.047,21.0,reviewed,nm,nm
 2020-09-20T05:38:56.840Z,36.097666700000005,-89.759,10.16,2.22,md,35.0,44.0,0.05125,0.07,nm,nm60329296,2020-09-20T13:32:50.900Z,"6 km ENE of Steele, Missouri",earthquake,0.24,0.4,0.055,25.0,reviewed,nm,nm
 2020-09-19T22:31:37.990Z,36.4848333,-81.107,0.86,-0.61,md,4.0,172.0,0.011770000000000001,0.03,se,se60329286,2020-09-20T13:40:00.140Z,"2 km SSE of Sparta, North Carolina",earthquake,0.32,1.05,0.10300000000000001,4.0,reviewed,se,se
 2020-09-19T13:32:42.990Z,36.5056667,-89.5843333,10.43,1.92,md,32.0,43.0,0.06576,0.08,nm,nm60329166,2020-09-19T14:06:05.420Z,"2 km ESE of Marston, Missouri",earthquake,0.16,0.37,0.142,23.0,reviewed,nm,nm
@@ -270,7 +271,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2020-08-17T09:34:40.710Z,36.5026667,-81.1186667,0.18,0.14,md,4.0,237.0,0.03083,0.05,se,se60306232,2020-08-21T17:11:45.660Z,"0 km SSE of Sparta, North Carolina",earthquake,0.53,7.76,0.12,4.0,reviewed,se,se
 2020-08-17T08:01:23.280Z,36.497,-81.1271667,0.17,-0.27,md,4.0,234.0,0.03202,0.07,se,se60306227,2020-08-21T17:22:44.680Z,"1 km SSW of Sparta, North Carolina",earthquake,0.61,8.85,0.006999999999999999,4.0,reviewed,se,se
 2020-08-17T06:28:35.650Z,36.5221667,-81.0718333,0.15,0.33,md,4.0,311.0,0.01875,0.05,se,se60306222,2020-08-21T17:27:37.860Z,"4 km ENE of Sparta, North Carolina",earthquake,0.86,7.11,0.166,4.0,reviewed,se,se
-2020-08-17T05:01:30.070Z,36.104833299999996,-89.7595,7.79,2.59,md,63.0,35.0,0.048960000000000004,0.12,nm,nm60306212,2020-08-21T10:26:34.040Z,"6 km ENE of Steele, Missouri",earthquake,0.16,0.41,0.102,36.0,reviewed,nm,nm
+2020-08-17T05:01:30.070Z,36.104833299999996,-89.7595,7.79,2.59,md,63.0,35.0,0.048960000000000004,0.12,nm,nm60306212,2020-10-24T05:39:54.040Z,"6 km ENE of Steele, Missouri",earthquake,0.16,0.41,0.102,36.0,reviewed,nm,nm
 2020-08-17T01:58:23.530Z,36.473833299999995,-81.0888333,1.1,1.62,md,9.0,88.0,0.006684000000000001,0.22,se,se60306207,2020-09-22T20:39:15.040Z,"4 km SE of Sparta, North Carolina",earthquake,0.59,1.12,0.20800000000000002,9.0,reviewed,se,se
 2020-08-16T22:52:53.860Z,36.4746667,-81.0793333,2.76,-0.37,md,4.0,143.0,0.01289,0.02,se,se60306202,2020-08-25T17:55:28.500Z,"5 km SE of Sparta, North Carolina",earthquake,0.35,0.58,0.133,4.0,reviewed,se,se
 2020-08-16T22:40:16.350Z,36.473833299999995,-81.0925,2.42,-0.24,md,4.0,139.0,0.005125,0.05,se,se60306197,2020-08-25T18:02:00.960Z,"4 km SE of Sparta, North Carolina",earthquake,0.46,0.64,0.043,4.0,reviewed,se,se
