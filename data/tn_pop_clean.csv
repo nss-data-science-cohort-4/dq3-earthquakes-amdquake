@@ -1,0 +1,429 @@
+city,state,county_name,latitude,longitude,population,density,source,zips
+Nashville,Tennessee,Davidson,36.1715,-86.7843,1081903.0,544.0,polygon,37027 37138 37076 37072 37205 37201 37206 37240 37243 37246 37080 37218 37219 37216 37217 37214 37215 37212 37213 37210 37211 37189 37209 37208 37204 37207 37203 37115 37013 37228 37221 37220 37143 37011 37202 37222 37224 37227 37229 37230 37232 37234 37235 37236 37241 37242 37244 37250
+Memphis,Tennessee,Shelby,35.1046,-89.9773,1066967.0,792.0,polygon,38120 38127 38107 38106 38105 38104 38103 38109 38108 38152 38132 38133 38131 38134 38141 38112 38111 38114 38115 38116 38117 38118 38119 38018 38016 38128 38122 38125 38126 37501 37544 38101 38113 38124 38130 38136 38145 38148 38150 38151 38157 38159 38161 38163 38166 38167 38168 38173 38174 38175 38177 38181 38182 38184 38186 38187 38188 38190 38193 38194 38197
+Knoxville,Tennessee,Knox,35.9692,-83.9496,586048.0,733.0,polygon,37918 37912 37909 37902 37924 37920 37921 37922 37923 37919 37915 37914 37917 37916 37901 37927 37928 37929 37930 37933 37939 37940 37950 37995 37996 37997
+Chattanooga,Tennessee,Hamilton,35.0657,-85.2488,415501.0,493.0,polygon,37415 37416 37410 37411 37419 37409 37421 37363 37408 37403 37402 37407 37405 37406 37404 37343 37351 37350 37401 37414 37422 37424 37450
+Clarksville,Tennessee,Montgomery,36.5695,-87.342,188746.0,618.0,polygon,42223 37043 37042 37040 37044
+Murfreesboro,Tennessee,Rutherford,35.8492,-86.4119,179951.0,919.0,polygon,37132 37130 37129 37128 37127 37131 37133
+Johnson City,Tennessee,Washington,36.3406,-82.3803,127571.0,599.0,polygon,37614 37615 37601 37604 37602 37684
+Kingsport,Tennessee,Sullivan,36.5224,-82.5453,119666.0,397.0,polygon,37660 37664 37663 37665 37662 37669
+Franklin,Tennessee,Williamson,35.9216,-86.8525,83097.0,771.0,polygon,37069 37064 37067 37065 37068
+Jackson,Tennessee,Madison,35.6535,-88.8353,74065.0,444.0,polygon,38305 38301 38302 38303 38308 38314
+Cleveland,Tennessee,Bradley,35.1817,-84.8707,73596.0,648.0,polygon,37312 37311 37320
+Bristol,Tennessee,Sullivan,36.5572,-82.2154,70243.0,318.0,polygon,37620 37621 37625
+Morristown,Tennessee,Hamblen,36.2046,-83.3006,61171.0,426.0,polygon,37813 37814 37778 37815 37816
+Bartlett,Tennessee,Shelby,35.2337,-89.8195,59440.0,710.0,polygon,38002 38133 38134 38135 38029
+Hendersonville,Tennessee,Sumner,36.3063,-86.5998,58113.0,714.0,polygon,37075 37077
+Smyrna,Tennessee,Rutherford,35.9722,-86.5253,51586.0,657.0,polygon,37167
+Collierville,Tennessee,Shelby,35.0471,-89.6988,51040.0,544.0,polygon,38139 38017 38027
+Cookeville,Tennessee,Putnam,36.1484,-85.5114,50408.0,378.0,polygon,38501 38506 38505 38502 38503
+Spring Hill,Tennessee,Maury,35.7438,-86.9116,47042.0,630.0,polygon,37174 37179
+Gallatin,Tennessee,Sumner,36.3782,-86.4696,42918.0,520.0,polygon,37066
+Brentwood,Tennessee,Williamson,35.9918,-86.7758,42783.0,401.0,polygon,37027 37024
+Columbia,Tennessee,Maury,35.6235,-87.0486,40663.0,472.0,polygon,38401 38402
+Germantown,Tennessee,Shelby,35.0829,-89.7825,39225.0,757.0,polygon,38138 38139 38183
+Lebanon,Tennessee,Wilson,36.204,-86.3481,38518.0,355.0,polygon,37090 37087 37088
+Mount Juliet,Tennessee,Wilson,36.1991,-86.5114,37029.0,574.0,polygon,37122 37121
+La Vergne,Tennessee,Rutherford,36.0203,-86.5582,35716.0,561.0,polygon,37086 37089
+Maryville,Tennessee,Blount,35.7468,-83.9789,29742.0,665.0,polygon,37803 37804 37801 37802
+Oak Ridge,Tennessee,Anderson,35.9639,-84.2938,29156.0,132.0,polygon,37830 37831
+Sevierville,Tennessee,Sevier,35.8873,-83.5677,25557.0,275.0,polygon,37862 37764 37876 37864
+Farragut,Tennessee,Knox,35.8731,-84.1822,23778.0,574.0,polygon,37934
+Greeneville,Tennessee,Greene,36.168,-82.8197,23683.0,338.0,polygon,37745 37743 37744
+Harriman,Tennessee,Roane,35.9307,-84.5602,22708.0,225.0,polygon,37748
+Shelbyville,Tennessee,Bedford,35.4987,-86.4516,21741.0,462.0,polygon,37160 37161 37162
+Atoka,Tennessee,Tipton,35.4239,-89.7861,21428.0,303.0,polygon,38004
+East Ridge,Tennessee,Hamilton,34.9973,-85.2284,21182.0,987.0,polygon,37412
+Dyersburg,Tennessee,Dyer,36.0465,-89.3777,20839.0,363.0,polygon,38024 38025
+La Follette,Tennessee,Campbell,36.3718,-84.1256,18884.0,525.0,polygon,37766
+Springfield,Tennessee,Robertson,36.4943,-86.8709,18241.0,516.0,polygon,37172
+Tullahoma,Tennessee,Coffee,35.3721,-86.2173,18082.0,322.0,polygon,37360 37388
+Crossville,Tennessee,Cumberland,35.9527,-85.0294,17825.0,222.0,polygon,38571 38555
+Dickson,Tennessee,Dickson,36.064,-87.3668,17157.0,299.0,polygon,37029 37055 37056
+Goodlettsville,Tennessee,Davidson,36.3327,-86.7029,16798.0,453.0,polygon,37072 37070
+Athens,Tennessee,McMinn,35.4573,-84.6045,16651.0,349.0,polygon,37303 37371
+McMinnville,Tennessee,Warren,35.6863,-85.7812,15570.0,480.0,polygon,37110
+Soddy-Daisy,Tennessee,Hamilton,35.2571,-85.1739,13619.0,227.0,polygon,37343 37379
+Elizabethton,Tennessee,Carter,36.3367,-82.2369,13509.0,545.0,polygon,37643 37682
+Lakeland,Tennessee,Shelby,35.2585,-89.7308,12642.0,207.0,polygon,38002 38014
+White House,Tennessee,Sumner,36.4648,-86.6665,12638.0,435.0,polygon,37188
+Manchester,Tennessee,Coffee,35.463,-86.0774,12433.0,298.0,polygon,37355
+Portland,Tennessee,Sumner,36.5883,-86.5194,12335.0,377.0,polygon,37148
+Winchester,Tennessee,Franklin,35.1898,-86.1074,12299.0,323.0,polygon,37398
+Middle Valley,Tennessee,Hamilton,35.1877,-85.1958,12097.0,478.0,polygon,37343
+Red Bank,Tennessee,Hamilton,35.1117,-85.2961,11840.0,696.0,polygon,37415 37405
+Arlington,Tennessee,Shelby,35.2594,-89.668,11728.0,197.0,polygon,38002 38028
+Lewisburg,Tennessee,Marshall,35.4494,-86.7897,11658.0,353.0,polygon,37091
+Newport,Tennessee,Cocke,35.9617,-83.1977,11500.0,480.0,polygon,37821 37822
+Collegedale,Tennessee,Hamilton,35.0525,-85.0487,11378.0,364.0,polygon,37302 37363 37315
+Hartsville,Tennessee,Trousdale,36.3921,-86.1568,11284.0,38.0,polygon,37022 37074 37057 37031
+Seymour,Tennessee,Sevier,35.8761,-83.7742,10873.0,332.0,polygon,37865
+Lawrenceburg,Tennessee,Lawrence,35.2497,-87.3325,10688.0,336.0,polygon,38464
+Millington,Tennessee,Shelby,35.335,-89.8991,10641.0,183.0,polygon,38053 38054 38055 38083
+Paris,Tennessee,Henry,36.2934,-88.3065,10536.0,300.0,polygon,38242
+Martin,Tennessee,Weakley,36.3386,-88.8513,10415.0,326.0,polygon,38237 38238
+Dayton,Tennessee,Rhea,35.4912,-85.012,10410.0,364.0,polygon,37321
+Clinton,Tennessee,Anderson,36.0981,-84.1283,10075.0,334.0,polygon,37716 37717
+Nolensville,Tennessee,Williamson,35.9572,-86.672,10062.0,372.0,polygon,37135
+Alcoa,Tennessee,Blount,35.8073,-83.9752,9980.0,258.0,polygon,37701 37777 37804
+Union City,Tennessee,Obion,36.4268,-89.0474,9763.0,330.0,polygon,38261 38281
+Erwin,Tennessee,Unicoi,36.1456,-82.4115,9500.0,553.0,polygon,37650
+Fayetteville,Tennessee,Lincoln,35.149,-86.5634,9473.0,282.0,polygon,37334
+Lenoir City,Tennessee,Loudon,35.811,-84.2818,9324.0,428.0,polygon,37771 37772
+Brownsville,Tennessee,Haywood,35.589,-89.2578,9055.0,369.0,polygon,38012
+Oakland,Tennessee,Fayette,35.2256,-89.5372,8891.0,318.0,polygon,38060 38028
+Bloomingdale,Tennessee,Sullivan,36.5793,-82.5096,8660.0,338.0,polygon,37660
+Signal Mountain,Tennessee,Hamilton,35.1449,-85.3457,8606.0,397.0,polygon,37377
+Fairfield Glade,Tennessee,Cumberland,36.0028,-84.8711,8564.0,143.0,polygon,38558 38557
+Humboldt,Tennessee,Gibson,35.8254,-88.9043,8456.0,325.0,polygon,38343
+Covington,Tennessee,Tipton,35.5661,-89.6482,8383.0,300.0,polygon,38019
+Savannah,Tennessee,Hardin,35.221,-88.236,8288.0,402.0,polygon,38372
+Jefferson City,Tennessee,Jefferson,36.1197,-83.4838,8194.0,479.0,polygon,37760
+South Cleveland,Tennessee,Bradley,35.1097,-84.9097,8069.0,218.0,polygon,37311 37323
+Ripley,Tennessee,Lauderdale,35.7449,-89.5358,8045.0,232.0,polygon,38063
+Harrison,Tennessee,Hamilton,35.1276,-85.1464,7555.0,451.0,polygon,37416 37341
+Fairview,Tennessee,Williamson,35.9815,-87.1291,7549.0,203.0,polygon,37062
+Pulaski,Tennessee,Giles,35.1933,-87.035,7472.0,390.0,polygon,38478
+Milan,Tennessee,Gibson,35.9126,-88.7554,7201.0,329.0,polygon,38358
+Greenbrier,Tennessee,Robertson,36.4239,-86.7976,6852.0,373.0,polygon,37073
+Millersville,Tennessee,Sumner,36.3968,-86.7111,6769.0,189.0,polygon,37072
+Lexington,Tennessee,Henderson,35.6618,-88.3945,6763.0,260.0,polygon,38351
+Green Hill,Tennessee,Wilson,36.2349,-86.5733,6695.0,744.0,polygon,37138
+Church Hill,Tennessee,Hawkins,36.5204,-82.715,6664.0,272.0,polygon,37642
+Thompson's Station,Tennessee,Williamson,35.809,-86.8994,6567.0,128.0,polygon,37064 37179
+Lynchburg,Tennessee,Moore,35.2846,-86.3587,6488.0,19.0,polygon,37334 37388 37359 37352
+Rogersville,Tennessee,Hawkins,36.4081,-83.0043,6380.0,449.0,polygon,37857
+Pigeon Forge,Tennessee,Sevier,35.7977,-83.5623,6266.0,181.0,polygon,37863
+Munford,Tennessee,Tipton,35.4433,-89.8148,6109.0,259.0,polygon,38058
+Henderson,Tennessee,Chester,35.4446,-88.6531,6073.0,314.0,polygon,38340
+Kingston,Tennessee,Roane,35.8713,-84.4959,5994.0,326.0,polygon,37763
+Loudon,Tennessee,Loudon,35.7413,-84.3704,5890.0,181.0,polygon,37774
+Madisonville,Tennessee,Monroe,35.5233,-84.363,5890.0,323.0,polygon,37354
+Dandridge,Tennessee,Jefferson,36.0285,-83.4308,5647.0,210.0,polygon,37725
+Tellico Village,Tennessee,Loudon,35.6977,-84.2661,5612.0,290.0,polygon,37774
+Jonesborough,Tennessee,Washington,36.2959,-82.4766,5611.0,420.0,polygon,37659
+Sweetwater,Tennessee,Monroe,35.6029,-84.4717,5553.0,257.0,polygon,37874
+Sparta,Tennessee,White,35.9347,-85.4726,5476.0,284.0,polygon,38583
+South Pittsburg,Tennessee,Marion,35.0111,-85.7183,5439.0,142.0,polygon,37380
+Rockwood,Tennessee,Roane,35.8693,-84.6731,5425.0,261.0,polygon,37854
+Lafayette,Tennessee,Macon,36.5242,-86.0307,5417.0,393.0,polygon,37083
+Mount Carmel,Tennessee,Hawkins,36.562,-82.6618,5294.0,307.0,polygon,37645
+Eagleton Village,Tennessee,Blount,35.7885,-83.9363,5250.0,688.0,polygon,37804
+McKenzie,Tennessee,Carroll,36.1371,-88.5077,5070.0,324.0,polygon,38201
+Bolivar,Tennessee,Hardeman,35.2645,-89.0118,4914.0,234.0,polygon,38008
+Forest Hills,Tennessee,Davidson,36.0651,-86.8403,4820.0,201.0,polygon,37215
+Bells,Tennessee,Crockett,35.7203,-89.0859,4772.0,397.0,polygon,38006
+Oak Grove,Tennessee,Washington,36.4223,-82.4293,4709.0,405.0,polygon,37615
+Coopertown,Tennessee,Robertson,36.4143,-86.9658,4586.0,56.0,polygon,37073 37172 37146
+Oak Hill,Tennessee,Davidson,36.0735,-86.7856,4516.0,222.0,polygon,37204 37220
+Spurgeon,Tennessee,Sullivan,36.443,-82.4621,4482.0,423.0,polygon,37615 37663
+Medina,Tennessee,Gibson,35.8152,-88.7901,4474.0,412.0,polygon,38355
+Algood,Tennessee,Putnam,36.1999,-85.4467,4463.0,422.0,polygon,38506
+Whiteville,Tennessee,Hardeman,35.318,-89.1498,4456.0,652.0,polygon,38075
+Smithville,Tennessee,DeKalb,35.9584,-85.8211,4367.0,322.0,polygon,37166
+Harrogate,Tennessee,Claiborne,36.5752,-83.6462,4348.0,231.0,polygon,37752
+Lake Tansi,Tennessee,Cumberland,35.8706,-85.0617,4343.0,196.0,polygon,38572
+Pleasant View,Tennessee,Cheatham,36.3893,-87.0455,4310.0,147.0,polygon,37146
+Oneida,Tennessee,Scott,36.5172,-84.5104,4267.0,153.0,polygon,37841
+Louisville,Tennessee,Blount,35.8246,-84.0552,4141.0,107.0,polygon,37777
+Etowah,Tennessee,McMinn,35.3381,-84.5282,4133.0,477.0,polygon,37331
+New Tazewell,Tennessee,Claiborne,36.4381,-83.6053,4116.0,207.0,polygon,37825 37824
+Tiptonville,Tennessee,Lake,36.387,-89.4677,3971.0,753.0,polygon,38079
+Dunlap,Tennessee,Sequatchie,35.3675,-85.3899,3967.0,184.0,polygon,37327
+Gatlinburg,Tennessee,Sevier,35.725,-83.4938,3860.0,143.0,polygon,37738
+Huntingdon,Tennessee,Carroll,36.0052,-88.4181,3835.0,125.0,polygon,38344
+Trenton,Tennessee,Gibson,35.9689,-88.9449,3775.0,200.0,polygon,38382
+Mount Pleasant,Tennessee,Maury,35.5484,-87.1872,3765.0,150.0,polygon,38401 38474
+Selmer,Tennessee,McNairy,35.1708,-88.5955,3747.0,173.0,polygon,38375
+Hohenwald,Tennessee,Lewis,35.5515,-87.5539,3679.0,279.0,polygon,38462
+White Bluff,Tennessee,Dickson,36.1002,-87.2113,3653.0,232.0,polygon,37187
+Colonial Heights,Tennessee,Sullivan,36.4852,-82.507,3642.0,369.0,polygon,37663
+Camden,Tennessee,Benton,36.0663,-88.1046,3602.0,246.0,polygon,38320
+Unicoi,Tennessee,Unicoi,36.2217,-82.3293,3594.0,85.0,polygon,37692
+Ashland City,Tennessee,Cheatham,36.2607,-87.0412,3552.0,172.0,polygon,37015
+Centerville,Tennessee,Hickman,35.8042,-87.4577,3540.0,127.0,polygon,37033
+Livingston,Tennessee,Overton,36.3875,-85.3265,3477.0,240.0,polygon,38570
+Jasper,Tennessee,Marion,35.0664,-85.6228,3448.0,135.0,polygon,37347
+Oliver Springs,Tennessee,Roane,36.0398,-84.3284,3414.0,228.0,polygon,37840
+Wildwood Lake,Tennessee,Bradley,35.0893,-84.8513,3400.0,109.0,polygon,37323
+Carthage,Tennessee,Smith,36.2566,-85.943,3327.0,311.0,polygon,37030
+Newbern,Tennessee,Dyer,36.1169,-89.2713,3292.0,280.0,polygon,38059
+Waverly,Tennessee,Humphreys,36.0939,-87.7846,3277.0,183.0,polygon,37185
+White Pine,Tennessee,Jefferson,36.1087,-83.297,3269.0,329.0,polygon,37890
+Somerville,Tennessee,Fayette,35.2352,-89.3869,3264.0,92.0,polygon,38068
+Christiana,Tennessee,Rutherford,35.7204,-86.4109,3237.0,157.0,polygon,37037 37128
+Norris,Tennessee,Anderson,36.2136,-84.0629,3229.0,74.0,polygon,37705 37828
+Bean Station,Tennessee,Grainger,36.3322,-83.2852,3113.0,200.0,polygon,37708
+Shackle Island,Tennessee,Sumner,36.3775,-86.6168,3082.0,214.0,polygon,37075
+Dyer,Tennessee,Gibson,36.071,-88.9921,3062.0,371.0,polygon,38330
+Monterey,Tennessee,Putnam,36.1446,-85.2643,3061.0,369.0,polygon,38574
+Dresden,Tennessee,Weakley,36.279,-88.6941,2937.0,190.0,polygon,38225
+Brighton,Tennessee,Tipton,35.4812,-89.7354,2908.0,369.0,polygon,38011
+Sale Creek,Tennessee,Hamilton,35.3895,-85.0875,2872.0,36.0,polygon,37373
+Belle Meade,Tennessee,Davidson,36.0994,-86.8562,2858.0,359.0,polygon,37205 37215
+Apison,Tennessee,Hamilton,35.0105,-85.0089,2830.0,76.0,polygon,37302
+Blountville,Tennessee,Sullivan,36.533,-82.329,2813.0,220.0,polygon,37617
+Woodbury,Tennessee,Cannon,35.8247,-86.0725,2807.0,568.0,polygon,37190
+Kingston Springs,Tennessee,Cheatham,36.0841,-87.1039,2727.0,104.0,polygon,37082
+Tusculum,Tennessee,Greene,36.175,-82.7454,2689.0,213.0,polygon,37616 37745
+Clifton,Tennessee,Wayne,35.3792,-87.9927,2655.0,184.0,polygon,38425
+Mountain City,Tennessee,Johnson,36.4695,-81.8049,2597.0,279.0,polygon,37683
+Halls,Tennessee,Lauderdale,35.8795,-89.405,2506.0,216.0,polygon,38037 38040
+Maynardville,Tennessee,Union,36.247,-83.8057,2428.0,173.0,polygon,37807
+Park City,Tennessee,Lincoln,35.0782,-86.5834,2424.0,171.0,polygon,37334
+Waynesboro,Tennessee,Wayne,35.3236,-87.7593,2419.0,218.0,polygon,38485
+Fairmount,Tennessee,Hamilton,35.1844,-85.3302,2418.0,208.0,polygon,37377
+Westmoreland,Tennessee,Sumner,36.562,-86.246,2413.0,222.0,polygon,37186
+Pine Crest,Tennessee,Carter,36.2966,-82.3107,2412.0,482.0,polygon,37601
+Coalfield,Tennessee,Morgan,36.0219,-84.4414,2385.0,37.0,polygon,37719 37840 37748
+Decherd,Tennessee,Franklin,35.2156,-86.0756,2371.0,190.0,polygon,37398 37324
+Mascot,Tennessee,Knox,36.0673,-83.765,2361.0,130.0,polygon,37924 37806
+Sewanee,Tennessee,Franklin,35.1975,-85.9213,2352.0,233.0,polygon,37375 37383
+Central,Tennessee,Carter,36.3289,-82.294,2350.0,257.0,polygon,37601
+Mosheim,Tennessee,Greene,36.1955,-82.9655,2337.0,144.0,polygon,37743 37818 37809
+Parsons,Tennessee,Decatur,35.6512,-88.1231,2290.0,218.0,polygon,38363
+Walnut Hill,Tennessee,Sullivan,36.5679,-82.2655,2286.0,214.0,polygon,37620
+Alamo,Tennessee,Crockett,35.783,-89.1168,2277.0,400.0,polygon,38001
+Tazewell,Tennessee,Claiborne,36.4625,-83.567,2276.0,202.0,polygon,37879
+South Fulton,Tennessee,Obion,36.4931,-88.8835,2214.0,252.0,polygon,38257
+Jellico,Tennessee,Campbell,36.5651,-84.1355,2165.0,134.0,polygon,37762 37847
+Adamsville,Tennessee,McNairy,35.2563,-88.3862,2164.0,118.0,polygon,38310
+Plainview,Tennessee,Union,36.1808,-83.7931,2156.0,131.0,polygon,37779 37721
+Walden,Tennessee,Hamilton,35.1635,-85.3098,2156.0,235.0,polygon,37377
+Hunter,Tennessee,Carter,36.3978,-82.1511,2153.0,129.0,polygon,37643
+Caryville,Tennessee,Campbell,36.3252,-84.2198,2148.0,162.0,polygon,37766 37714 37847 37757
+Ridgetop,Tennessee,Robertson,36.4045,-86.7681,2137.0,272.0,polygon,37072 37073 37152
+Jamestown,Tennessee,Fentress,36.4319,-84.9341,2106.0,277.0,polygon,38556
+Greenfield,Tennessee,Weakley,36.16,-88.8036,2086.0,231.0,polygon,38230
+Pegram,Tennessee,Cheatham,36.1037,-87.0565,2068.0,110.0,polygon,37143
+Unionville,Tennessee,Bedford,35.6118,-86.5739,2063.0,88.0,polygon,37160 37180
+Jacksboro,Tennessee,Campbell,36.3352,-84.1928,2058.0,307.0,polygon,37757
+Estill Springs,Tennessee,Franklin,35.2753,-86.1395,2034.0,177.0,polygon,37330
+Piperton,Tennessee,Fayette,35.0512,-89.6091,1986.0,28.0,polygon,38017
+Lookout Mountain,Tennessee,Hamilton,34.9944,-85.3516,1889.0,543.0,polygon,37350
+Rural Hill,Tennessee,Wilson,36.1164,-86.5152,1888.0,179.0,polygon,37076 37122
+Hopewell,Tennessee,Bradley,35.2387,-84.9139,1888.0,102.0,polygon,37312
+New Johnsonville,Tennessee,Humphreys,36.0163,-87.9696,1874.0,140.0,polygon,37134
+Lakesite,Tennessee,Hamilton,35.2027,-85.1413,1864.0,413.0,polygon,37343 37379
+Blaine,Tennessee,Grainger,36.1478,-83.694,1860.0,75.0,polygon,37709
+Spring City,Tennessee,Rhea,35.6884,-84.8626,1851.0,267.0,polygon,37381
+Cross Plains,Tennessee,Robertson,36.5412,-86.6766,1827.0,81.0,polygon,37049
+Loretto,Tennessee,Lawrence,35.0794,-87.4402,1771.0,183.0,polygon,38469
+Surgoinsville,Tennessee,Hawkins,36.4745,-82.8594,1760.0,118.0,polygon,37857 37873
+Pikeville,Tennessee,Bledsoe,35.6027,-85.1984,1741.0,275.0,polygon,37367
+Gruetli-Laager,Tennessee,Grundy,35.3725,-85.6375,1738.0,52.0,polygon,37339
+McEwen,Tennessee,Humphreys,36.1099,-87.6355,1731.0,362.0,polygon,37101
+Whitwell,Tennessee,Marion,35.1918,-85.5212,1730.0,190.0,polygon,37397
+Mowbray Mountain,Tennessee,Hamilton,35.2751,-85.2225,1699.0,32.0,polygon,37379
+Spencer,Tennessee,Van Buren,35.7393,-85.456,1691.0,99.0,polygon,38585
+Three Way,Tennessee,Madison,35.772,-88.8572,1688.0,145.0,polygon,38343
+East Cleveland,Tennessee,Bradley,35.1525,-84.8541,1682.0,519.0,polygon,37311
+Bluff City,Tennessee,Sullivan,36.4589,-82.2769,1670.0,369.0,polygon,37618 37686
+Decatur,Tennessee,Meigs,35.5291,-84.7933,1667.0,169.0,polygon,37322
+Cowan,Tennessee,Franklin,35.1629,-86.0142,1658.0,308.0,polygon,37318
+Olivet,Tennessee,Hardin,35.2048,-88.1939,1652.0,106.0,polygon,38372
+Charlotte,Tennessee,Dickson,36.1861,-87.3389,1634.0,155.0,polygon,37036
+Ridgely,Tennessee,Lake,36.2607,-89.4808,1623.0,380.0,polygon,38080
+Graysville,Tennessee,Rhea,35.4493,-85.0763,1580.0,517.0,polygon,37338 37321
+Vonore,Tennessee,Monroe,35.5977,-84.2365,1552.0,68.0,polygon,37885 37801
+Gray,Tennessee,Washington,36.4219,-82.4767,1552.0,401.0,polygon,37615
+Fall Branch,Tennessee,Washington,36.4161,-82.6242,1547.0,132.0,polygon,37656
+Dover,Tennessee,Stewart,36.4818,-87.8438,1546.0,156.0,polygon,37058
+Chapel Hill,Tennessee,Marshall,35.6294,-86.6955,1538.0,187.0,polygon,37034
+Englewood,Tennessee,McMinn,35.4228,-84.4883,1534.0,310.0,polygon,37329
+Mason,Tennessee,Tipton,35.4128,-89.5412,1531.0,298.0,polygon,38049
+Baxter,Tennessee,Putnam,36.1537,-85.6349,1531.0,188.0,polygon,38544
+Watertown,Tennessee,Wilson,36.101,-86.1403,1523.0,442.0,polygon,37184
+Burns,Tennessee,Dickson,36.0507,-87.2983,1456.0,165.0,polygon,37029 37055
+Banner Hill,Tennessee,Unicoi,36.1222,-82.4203,1455.0,402.0,polygon,37650
+Crump,Tennessee,Hardin,35.2315,-88.3381,1454.0,44.0,polygon,38310 38327
+Kimball,Tennessee,Marion,35.0469,-85.674,1449.0,105.0,polygon,37347 37380
+Midtown,Tennessee,Roane,35.8813,-84.5716,1437.0,123.0,polygon,37748
+Celina,Tennessee,Clay,36.5469,-85.5043,1420.0,297.0,polygon,38551
+South Carthage,Tennessee,Smith,36.2414,-85.9575,1398.0,210.0,polygon,37030
+Tracy City,Tennessee,Grundy,35.262,-85.7515,1397.0,115.0,polygon,37387
+Bruceton,Tennessee,Carroll,36.0349,-88.2466,1395.0,320.0,polygon,38317
+New Union,Tennessee,Coffee,35.534,-86.0832,1389.0,139.0,polygon,37355
+Gleason,Tennessee,Weakley,36.2174,-88.6107,1376.0,236.0,polygon,38229
+New Market,Tennessee,Jefferson,36.1096,-83.5493,1375.0,125.0,polygon,37820
+Powells Crossroads,Tennessee,Marion,35.1848,-85.4848,1359.0,107.0,polygon,37397
+Rutledge,Tennessee,Grainger,36.2757,-83.5311,1355.0,94.0,polygon,37861
+Sneedville,Tennessee,Hancock,36.5366,-83.2099,1349.0,226.0,polygon,37869
+Rockvale,Tennessee,Rutherford,35.7668,-86.521,1340.0,118.0,polygon,37153 37128
+Tennessee Ridge,Tennessee,Houston,36.3194,-87.7632,1332.0,137.0,polygon,37061 37178
+Troy,Tennessee,Obion,36.3419,-89.1583,1321.0,377.0,polygon,38260
+Falling Water,Tennessee,Hamilton,35.1962,-85.2604,1309.0,94.0,polygon,37415 37343
+Cornersville,Tennessee,Marshall,35.3628,-86.8583,1291.0,87.0,polygon,37047
+Erin,Tennessee,Houston,36.3159,-87.7026,1280.0,126.0,polygon,37061
+Benton,Tennessee,Polk,35.1749,-84.6516,1278.0,162.0,polygon,37307
+Fincastle,Tennessee,Campbell,36.4038,-84.048,1276.0,134.0,polygon,37766
+Roan Mountain,Tennessee,Carter,36.1866,-82.0705,1276.0,74.0,polygon,37687
+Huntsville,Tennessee,Scott,36.4112,-84.5053,1269.0,121.0,polygon,37756 37755
+Dodson Branch,Tennessee,Jackson,36.3148,-85.5322,1260.0,43.0,polygon,38501
+Gordonsville,Tennessee,Smith,36.1817,-85.9324,1245.0,67.0,polygon,38563
+Monteagle,Tennessee,Marion,35.2367,-85.8513,1234.0,50.0,polygon,37375 37356
+Bon Aqua Junction,Tennessee,Hickman,35.9281,-87.3124,1229.0,100.0,polygon,37098
+Ardmore,Tennessee,Giles,35.0031,-86.8547,1221.0,100.0,polygon,38449
+Greenback,Tennessee,Loudon,35.6487,-84.1724,1219.0,56.0,polygon,37742
+Grimsley,Tennessee,Fentress,36.2761,-84.997,1219.0,43.0,polygon,38565 38556
+Kenton,Tennessee,Obion,36.2021,-89.0155,1195.0,236.0,polygon,38233
+Lyles,Tennessee,Hickman,35.9195,-87.345,1173.0,172.0,polygon,37098
+Telford,Tennessee,Washington,36.2534,-82.5478,1161.0,181.0,polygon,37690
+Riceville,Tennessee,McMinn,35.3895,-84.699,1140.0,202.0,polygon,37370
+Red Boiling Springs,Tennessee,Macon,36.5301,-85.8481,1132.0,249.0,polygon,37150
+Lone Oak,Tennessee,Sequatchie,35.2007,-85.3685,1125.0,67.0,polygon,37377
+Luttrell,Tennessee,Union,36.2097,-83.7478,1080.0,108.0,polygon,37779
+Altamont,Tennessee,Grundy,35.4325,-85.7433,1067.0,20.0,polygon,37301 37305
+Rutherford,Tennessee,Gibson,36.1249,-88.992,1067.0,178.0,polygon,38369
+New Hope,Tennessee,Marion,35.0044,-85.6598,1052.0,39.0,polygon,37380
+Obion,Tennessee,Obion,36.2643,-89.1947,1041.0,311.0,polygon,38240
+Alexandria,Tennessee,DeKalb,36.0791,-86.0381,1012.0,192.0,polygon,37012
+Helenwood,Tennessee,Scott,36.4289,-84.5532,1008.0,61.0,polygon,37755
+Winfield,Tennessee,Scott,36.5637,-84.4459,1006.0,59.0,polygon,37892
+Wildwood,Tennessee,Blount,35.7999,-83.8686,992.0,154.0,polygon,37804
+Scotts Hill,Tennessee,Decatur,35.5188,-88.2526,979.0,100.0,polygon,38374
+Bradford,Tennessee,Gibson,36.0737,-88.8158,978.0,221.0,polygon,38316
+Rossville,Tennessee,Fayette,35.0323,-89.5612,962.0,71.0,polygon,38066
+Gainesboro,Tennessee,Jackson,36.3618,-85.6496,959.0,237.0,polygon,38562
+Walnut Grove,Tennessee,Sumner,36.489,-86.6057,956.0,76.0,polygon,37048
+Linden,Tennessee,Perry,35.6123,-87.8429,956.0,367.0,polygon,37096
+Collinwood,Tennessee,Wayne,35.1745,-87.7441,944.0,131.0,polygon,38450
+Orlinda,Tennessee,Robertson,36.5938,-86.7015,940.0,55.0,polygon,37141
+Henning,Tennessee,Lauderdale,35.682,-89.577,931.0,145.0,polygon,38041
+Wartburg,Tennessee,Morgan,36.1038,-84.5859,924.0,352.0,polygon,37887
+Atwood,Tennessee,Carroll,35.9747,-88.6689,919.0,204.0,polygon,38220
+Sharon,Tennessee,Weakley,36.2349,-88.8252,917.0,278.0,polygon,38255
+Tellico Plains,Tennessee,Monroe,35.3665,-84.2982,909.0,179.0,polygon,37385
+Friendsville,Tennessee,Blount,35.7563,-84.1319,903.0,122.0,polygon,37737
+Lobelville,Tennessee,Perry,35.7507,-87.7958,888.0,91.0,polygon,37097
+Decaturville,Tennessee,Decatur,35.582,-88.1195,862.0,201.0,polygon,38329
+Rockford,Tennessee,Blount,35.8328,-83.9357,852.0,103.0,polygon,37853 37804
+Huntland,Tennessee,Franklin,35.0579,-86.2689,844.0,213.0,polygon,37345
+Trezevant,Tennessee,Carroll,36.011,-88.6205,838.0,227.0,polygon,38258
+Coalmont,Tennessee,Grundy,35.3458,-85.7113,834.0,53.0,polygon,37313
+Mooresburg,Tennessee,Hawkins,36.3531,-83.2362,832.0,84.0,polygon,37811
+St. Joseph,Tennessee,Lawrence,35.033,-87.5008,829.0,84.0,polygon,38481
+Clarkrange,Tennessee,Fentress,36.1857,-85.0096,818.0,31.0,polygon,38553
+Petros,Tennessee,Morgan,36.1028,-84.4503,812.0,79.0,polygon,37840 37845
+Ooltewah,Tennessee,Hamilton,35.0723,-85.0546,786.0,490.0,polygon,37363
+Byrdstown,Tennessee,Pickett,36.5737,-85.1342,783.0,203.0,polygon,38549
+Eagleville,Tennessee,Rutherford,35.7391,-86.6528,763.0,104.0,polygon,37060
+Crab Orchard,Tennessee,Cumberland,35.9066,-84.8847,751.0,26.0,polygon,37723 38555
+Niota,Tennessee,McMinn,35.517,-84.5497,733.0,123.0,polygon,37826
+Philadelphia,Tennessee,Loudon,35.679,-84.4,729.0,180.0,polygon,37846
+Bethel Springs,Tennessee,McNairy,35.2341,-88.6131,727.0,125.0,polygon,38315
+Morrison,Tennessee,Warren,35.6048,-85.9117,722.0,103.0,polygon,37357
+Bulls Gap,Tennessee,Hawkins,36.2616,-83.0788,721.0,228.0,polygon,37711
+Lakewood Park,Tennessee,Coffee,35.6482,-86.1357,714.0,48.0,polygon,37018
+Eastview,Tennessee,McNairy,35.0877,-88.5517,707.0,53.0,polygon,38367 38375
+Charleston,Tennessee,Bradley,35.2863,-84.7611,697.0,259.0,polygon,37310
+Wartrace,Tennessee,Bedford,35.5253,-86.3301,695.0,306.0,polygon,37183
+Hollow Rock,Tennessee,Carroll,36.0355,-88.274,679.0,155.0,polygon,38342
+Adams,Tennessee,Robertson,36.5826,-87.0634,671.0,98.0,polygon,37010
+Palmer,Tennessee,Grundy,35.3576,-85.5656,668.0,52.0,polygon,37365
+Friendship,Tennessee,Crockett,35.9084,-89.2414,664.0,194.0,polygon,38034
+Puryear,Tennessee,Henry,36.4413,-88.3324,663.0,270.0,polygon,38251
+Maury City,Tennessee,Crockett,35.8145,-89.2239,659.0,225.0,polygon,38050 38001
+Gallaway,Tennessee,Fayette,35.3274,-89.6066,647.0,40.0,polygon,38036 38002 38049
+Flintville,Tennessee,Lincoln,35.0601,-86.4164,640.0,46.0,polygon,37335
+Middleton,Tennessee,Hardeman,35.0593,-88.8901,635.0,117.0,polygon,38052
+Allardt,Tennessee,Fentress,36.3811,-84.8814,627.0,64.0,polygon,38556
+Michie,Tennessee,McNairy,35.0605,-88.4257,625.0,42.0,polygon,38357
+Gates,Tennessee,Lauderdale,35.8407,-89.4081,612.0,335.0,polygon,38037
+Trimble,Tennessee,Dyer,36.202,-89.188,611.0,364.0,polygon,38259
+Chesterfield,Tennessee,Henderson,35.6467,-88.27,606.0,30.0,polygon,38351
+Summertown,Tennessee,Lawrence,35.4344,-87.3084,598.0,114.0,polygon,38483
+Doyle,Tennessee,White,35.8552,-85.512,577.0,180.0,polygon,38583 38559
+Pittman Center,Tennessee,Sevier,35.7595,-83.3886,570.0,36.0,polygon,37738 37876
+Petersburg,Tennessee,Lincoln,35.3173,-86.6407,568.0,217.0,polygon,37144
+Andersonville,Tennessee,Anderson,36.197,-84.033,559.0,133.0,polygon,37705
+Moscow,Tennessee,Fayette,35.0611,-89.3893,557.0,168.0,polygon,38057
+Pleasant Hill,Tennessee,Cumberland,35.9767,-85.1996,556.0,131.0,polygon,38578 38572 38571 38583
+Bell Buckle,Tennessee,Bedford,35.59,-86.353,543.0,352.0,polygon,37020
+Saltillo,Tennessee,Hardin,35.3822,-88.2393,538.0,71.0,polygon,38370
+Castalian Springs,Tennessee,Sumner,36.4012,-86.3068,536.0,35.0,polygon,37031
+Baneberry,Tennessee,Jefferson,36.0465,-83.2783,534.0,115.0,polygon,37890
+Minor Hill,Tennessee,Giles,35.0424,-87.1653,531.0,110.0,polygon,38473 38460
+Elkton,Tennessee,Giles,35.0616,-86.897,524.0,108.0,polygon,38477 38455
+Big Sandy,Tennessee,Benton,36.2325,-88.0854,521.0,288.0,polygon,38221
+Sunbright,Tennessee,Morgan,36.2428,-84.6801,519.0,57.0,polygon,37872
+Berry Hill,Tennessee,Davidson,36.1196,-86.7673,508.0,216.0,polygon,37211 37204
+Wrigley,Tennessee,Hickman,35.8997,-87.3537,503.0,203.0,polygon,37098
+Calhoun,Tennessee,McMinn,35.2979,-84.7454,500.0,177.0,polygon,37309
+Cumberland Gap,Tennessee,Claiborne,36.5974,-83.6659,490.0,575.0,polygon,37724
+Ethridge,Tennessee,Lawrence,35.3218,-87.3013,486.0,162.0,polygon,38456
+Hornbeak,Tennessee,Obion,36.3352,-89.2983,470.0,172.0,polygon,38232
+Ducktown,Tennessee,Polk,35.036,-84.3848,467.0,68.0,polygon,37317 37326
+Gadsden,Tennessee,Crockett,35.7767,-88.9861,464.0,159.0,polygon,38337
+Townsend,Tennessee,Blount,35.6763,-83.7528,462.0,89.0,polygon,37882
+Beersheba Springs,Tennessee,Grundy,35.4589,-85.6688,460.0,36.0,polygon,37305
+Gilt Edge,Tennessee,Tipton,35.5336,-89.8303,455.0,64.0,polygon,38015
+Baileyton,Tennessee,Greene,36.3304,-82.8292,451.0,107.0,polygon,37745
+Henry,Tennessee,Henry,36.2001,-88.4111,447.0,131.0,polygon,38231
+Ridgeside,Tennessee,Hamilton,35.0349,-85.2469,441.0,1004.0,polygon,37411
+Guys,Tennessee,McNairy,35.0191,-88.5427,435.0,14.0,polygon,38367 38339
+Vanleer,Tennessee,Dickson,36.2381,-87.4466,422.0,232.0,polygon,37181
+Stanton,Tennessee,Haywood,35.4613,-89.4013,420.0,316.0,polygon,38069
+Burlison,Tennessee,Tipton,35.5569,-89.7847,410.0,150.0,polygon,38015
+Dowelltown,Tennessee,DeKalb,36.0125,-85.9427,402.0,206.0,polygon,37059 37095
+Fairgarden,Tennessee,Sevier,35.8915,-83.4108,400.0,45.0,polygon,37876
+Gibson,Tennessee,Gibson,35.8743,-88.8439,386.0,243.0,polygon,38343
+Sardis,Tennessee,Henderson,35.4424,-88.2913,382.0,58.0,polygon,38371
+Clarksburg,Tennessee,Carroll,35.8668,-88.3932,379.0,69.0,polygon,38390 38344
+Williston,Tennessee,Fayette,35.1585,-89.3754,377.0,88.0,polygon,38068 38076
+Watauga,Tennessee,Carter,36.3688,-82.2919,374.0,163.0,polygon,37694
+Woodland Mills,Tennessee,Obion,36.4767,-89.1105,357.0,108.0,polygon,38261 38271
+Cottontown,Tennessee,Sumner,36.449,-86.5336,354.0,38.0,polygon,37066 37048
+New Deal,Tennessee,Sumner,36.5139,-86.5629,354.0,72.0,polygon,37048 37148
+Toone,Tennessee,Hardeman,35.3565,-88.9542,334.0,119.0,polygon,38381
+Liberty,Tennessee,DeKalb,36.0045,-85.9779,330.0,110.0,polygon,37095
+McLemoresville,Tennessee,Carroll,35.9863,-88.5801,326.0,57.0,polygon,38258 38235 38344
+Pelham,Tennessee,Grundy,35.3342,-85.8703,323.0,7.0,polygon,37366 37324
+Copperhill,Tennessee,Polk,34.9951,-84.3748,321.0,70.0,polygon,37317
+Bethpage,Tennessee,Sumner,36.4844,-86.3085,320.0,93.0,polygon,37022
+Parker's Crossroads,Tennessee,Henderson,35.7894,-88.3906,313.0,31.0,polygon,38388
+Cedar Hill,Tennessee,Robertson,36.5512,-87.001,312.0,187.0,polygon,37032
+Rives,Tennessee,Obion,36.3561,-89.0496,311.0,347.0,polygon,38261 38253
+Flat Top Mountain,Tennessee,Hamilton,35.3319,-85.2,308.0,6.0,polygon,37379
+Cumberland City,Tennessee,Stewart,36.3828,-87.6403,307.0,23.0,polygon,37050
+Lynnville,Tennessee,Giles,35.3781,-87.0054,305.0,347.0,polygon,38472
+Elgin,Tennessee,Scott,36.3285,-84.6091,303.0,60.0,polygon,37852 37732 37872
+Garland,Tennessee,Tipton,35.5818,-89.7526,298.0,211.0,polygon,38019
+Ramer,Tennessee,McNairy,35.0719,-88.6175,296.0,74.0,polygon,38367
+Parrottsville,Tennessee,Cocke,36.0082,-83.0915,293.0,152.0,polygon,37843
+Finger,Tennessee,McNairy,35.357,-88.6169,288.0,70.0,polygon,38334
+Walland,Tennessee,Blount,35.732,-83.8069,272.0,68.0,polygon,37886
+Grand Junction,Tennessee,Hardeman,35.05,-89.1889,271.0,88.0,polygon,38039
+Auburntown,Tennessee,Cannon,35.951,-86.097,266.0,180.0,polygon,37016
+Milledgeville,Tennessee,McNairy,35.3776,-88.3661,264.0,63.0,polygon,38332 38359
+Braden,Tennessee,Fayette,35.3685,-89.5718,263.0,27.0,polygon,38049 38010
+Hornsby,Tennessee,Hardeman,35.2285,-88.8294,262.0,96.0,polygon,38008 38044
+Stantonville,Tennessee,McNairy,35.1569,-88.4302,261.0,89.0,polygon,38379
+Walnut Grove,Tennessee,Hardin,35.0479,-88.0641,260.0,17.0,polygon,38372
+Yorkville,Tennessee,Gibson,36.0976,-89.1184,255.0,75.0,polygon,38059 38330
+Centertown,Tennessee,Warren,35.7251,-85.9197,253.0,105.0,polygon,37110
+Hillsboro,Tennessee,Coffee,35.4085,-85.9639,251.0,23.0,polygon,37342
+Fairfield,Tennessee,Sumner,36.6209,-86.3426,245.0,95.0,polygon,37186
+Walterhill,Tennessee,Rutherford,35.9573,-86.3678,233.0,29.0,polygon,37130 37085 37129
+Iron City,Tennessee,Lawrence,35.0227,-87.5855,222.0,124.0,polygon,38463
+Bransford,Tennessee,Sumner,36.5133,-86.2853,220.0,21.0,polygon,37022
+Oakdale,Tennessee,Morgan,35.9896,-84.5573,207.0,91.0,polygon,37829
+Graball,Tennessee,Sumner,36.4837,-86.4396,206.0,39.0,polygon,37066 37148
+Slayden,Tennessee,Dickson,36.2913,-87.4656,205.0,51.0,polygon,37165 37051
+Oak Grove,Tennessee,Sumner,36.5722,-86.3781,204.0,61.0,polygon,37022 37148
+Samburg,Tennessee,Obion,36.3823,-89.3533,201.0,164.0,polygon,38254 38232
+Darden,Tennessee,Henderson,35.6384,-88.2261,197.0,9.0,polygon,38351 38328
+Mitchellville,Tennessee,Sumner,36.6344,-86.54,196.0,140.0,polygon,37148 37119
+Enville,Tennessee,Chester,35.3911,-88.4303,192.0,51.0,polygon,38332
+Medon,Tennessee,Madison,35.4556,-88.8636,183.0,71.0,polygon,38356
+Robbins,Tennessee,Scott,36.3536,-84.5839,178.0,39.0,polygon,37852
+Normandy,Tennessee,Bedford,35.4523,-86.2582,147.0,231.0,polygon,37360
+Viola,Tennessee,Warren,35.5387,-85.8606,138.0,314.0,polygon,37394 37357
+Bowman,Tennessee,Cumberland,36.0586,-85.0305,133.0,22.0,polygon,38571
+La Grange,Tennessee,Fayette,35.0477,-89.2408,132.0,25.0,polygon,38057 38046
+Orme,Tennessee,Marion,35.0147,-85.8048,110.0,10.0,polygon,37380
+Silerton,Tennessee,Hardeman,35.3424,-88.8099,99.0,57.0,polygon,38340 38377
+Hickory Valley,Tennessee,Hardeman,35.155,-89.126,93.0,113.0,polygon,38042
+Eva,Tennessee,Benton,36.0687,-88.0082,93.0,18.0,polygon,38333
+Saulsbury,Tennessee,Hardeman,35.0489,-89.0883,91.0,58.0,polygon,38067
+Cottage Grove,Tennessee,Henry,36.3781,-88.4789,86.0,194.0,polygon,38224
